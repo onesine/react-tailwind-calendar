@@ -21,7 +21,7 @@ You can find the online demo at [here](https://react-tailwind-calendar.vercel.ap
 1. Clone this repo
 
 ```sh
-    git clone https://github.com/pay-onesine/react-tailwind-calendar.git
+    git clone https://github.com/onesine/react-tailwind-calendar.git
 ```
 
 2. Go into the project root directory
