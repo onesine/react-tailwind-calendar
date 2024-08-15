@@ -87,7 +87,7 @@ export function previousMonthBy(date: Date) {
 
     const parseDate = dayjs(date);
 
-    return dayjs(parseDate)
+    return parseDate
         .date(1)
         .hour(0)
         .minute(0)
@@ -101,7 +101,7 @@ export function nextMonthBy(date: Date) {
 
     const parseDate = dayjs(date);
 
-    return dayjs(parseDate)
+    return parseDate
         .date(1)
         .hour(0)
         .minute(0)
